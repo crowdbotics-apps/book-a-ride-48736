@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-appointment](modules/appointment)
 - [django-google-appointment](backend/modules)
 - [react-native-appointment-local](modules/appointment-local)
+- [react-native-camera](modules/camera)
 
 # Getting started: Frontend
 
